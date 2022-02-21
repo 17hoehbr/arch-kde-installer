@@ -1,4 +1,7 @@
 # arch-lxqt
+
+*Does not currently compile*
+
 Arch installer with LXQt Desktop Environment
 
 Created with [archiso](https://wiki.archlinux.org/title/archiso)
