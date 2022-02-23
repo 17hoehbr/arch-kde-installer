@@ -1,6 +1,4 @@
-# arch-lxqt
-
-*Does not currently compile*
+# arch-kde-installer
 
 Arch installer with LXQt Desktop Environment
 
