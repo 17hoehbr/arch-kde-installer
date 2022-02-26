@@ -9,14 +9,16 @@ This project is just an arch live iso / installer but with a functioning desktop
 
 Image is based on the releng profile with the following packages added:
 * gparted
-* lxqt
-* breeze-icons
-* sddm
+* xorg-xinit
 * xorg-server
 * xf86-video-amdgpu
 * mesa
 * lib32-mesa
 * firefox
+* nvidia
+* dolphin
+* konsole
+* plasma-meta
 
 # Building
 
