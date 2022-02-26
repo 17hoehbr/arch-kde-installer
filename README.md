@@ -1,6 +1,6 @@
 # arch-kde-installer
 
-Arch installer with LXQt Desktop Environment
+Arch installer with KDE Plasma Desktop Environment
 
 Created with [archiso](https://wiki.archlinux.org/title/archiso)
 
