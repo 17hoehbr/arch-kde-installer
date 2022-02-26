@@ -19,6 +19,7 @@ Image is based on the releng profile with the following packages added:
 * dolphin
 * konsole
 * plasma-meta
+* testdisk
 
 # Building
 
