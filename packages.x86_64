@@ -119,6 +119,7 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
 gparted
 plasma-meta
 konsole
@@ -130,4 +131,7 @@ mesa
 lib32-mesa
 nvidia
 firefox
-testdisk
+kwrite
+ark
+gwenview
+kcalc
