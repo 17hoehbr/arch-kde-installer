@@ -24,6 +24,6 @@ Image is based on the releng profile with the following packages added:
 
 See [wiki](https://wiki.archlinux.org/title/archiso#Build_the_ISO)
 
-Replace "/path/to/profile/" with the directory you extracted this repo to (ex. ~/arch-lxqt/)
+Replace "/path/to/profile/" with the directory you extracted this repo to (ex. ~/arch-kde-installer/)
 
 I do not intent to provide much in terms of update or support, this project is mostly for personal reference.
